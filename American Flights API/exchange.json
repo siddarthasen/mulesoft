@@ -1,0 +1,11 @@
+{
+  "main": "american-flights-api.raml",
+  "name": "American Flights API",
+  "classifier": "raml",
+  "organizationId": "",
+  "descriptorVersion": "1.0.0",
+  "groupId": "",
+  "assetId": "american-flights-api",
+  "version": "1.0.0",
+  "tags": []
+}
